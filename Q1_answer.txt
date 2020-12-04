@@ -1,0 +1,1 @@
+Approximate Median value of age: 20-50

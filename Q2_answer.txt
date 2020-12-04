@@ -1,0 +1,31 @@
+a) 
+   Mean is: 29.962962962962962
+   Median is: 25
+b)
+   Mode is: 25
+   We can see that this data is tri-modal, as there are 3 distinct 'humps' on a super-imposed outline of the edges of the histogram
+
+c)
+  Max is: 70
+  Max is: 13
+  MidRange is: 5.384615384615385
+
+d)
+  Q1 is: 20.5
+  Q3 is: 35.0
+e)
+  Min is: 13
+  Q1 is: 20.5
+  Median is: 25.0
+  Q3 is: 35.0
+  Max is: 70
+  
+f)
+  See notebook, I can't display a boxplot in ASCII
+
+g)
+- A quantile-quantile plot (QQ-Plot), is also called a Normal Quantile Plot.
+    - The Normal Quantile Plot is created by comparing the quantiles of a Normal distribution with the quantiles of the data distribution.
+    - It can tell you if your data is **normally distributed** (and thus, if will show if it's skewed, and in which direction).
+- A Quantile plot (Q-Plot)
+    - This is just a graph of all of the quantiles of your data points.
